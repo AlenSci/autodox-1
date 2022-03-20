@@ -28,5 +28,9 @@ this app is Notion.so clone, roamresearch clone and obsidian clone. The main pur
 
 # join on slack [#autodox](https://slate-js.slack.com/archives/C032XGDCCS3)
 
+# Blockchain:
+* Despite the fact that the initial version will probably be in Postgres, I intend to set the BE as web3 app (DApp).
+* For developers, I'll create a smart contract that allocates a share to each contributor and adjusts the share size when new contributions are made. Hence, it will automatically distribute the contributors' monthly earnings.
+
 # Demo
 <img align="left" src="./readmeFiles/demo.png" width="300">
